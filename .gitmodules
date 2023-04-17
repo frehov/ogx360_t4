@@ -6,4 +6,4 @@
 	url = https://github.com/mpaland/printf.git
 [submodule "src/usbh/USBHost_t36"]
 	path = src/usbh/USBHost_t36
-	url = https://github.com/Ryzee119/USBHost_t36.git
+	url = https://github.com/frehov/USBHost_t36.git
